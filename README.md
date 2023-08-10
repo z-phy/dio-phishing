@@ -1,23 +1,23 @@
 # dio-phishing
-Phishing para capturar senhas do Facebook
+Phishing to capture Facebook passwords
 
-Ferramentas
+Tools
 
 - Kali Linux
 - Setoolkit
 
-Configurando o phishing no Kali Linux
+Configuring Phishing in Kali Linux
 
-- Acesso root sudo su
-- Inicie o setoolkit
-- Tipo de ataque: Social-Enginnering-Attacks
-- Vetor de ataque web Site attack Vector
-- Credential Harvester Attack metod
-- Metódo de ataque Site Cloner
-- Obtendo endereço da máquina ifconfig
-- URL para clone: http//www.facebook.com
+- sudo su root access
+- Start setoolkit
+- Type of attack: Social-Eginnering-Attacks
+- Web Attack Vector Site attack Vector
+- Credential Harvester Attack method
+- Site Cloner attack method
+- Getting machine address ifconfig
+- URL to clone: ​​http://www.facebook.com
 
-* Resultado
+* Result
  
  
  
