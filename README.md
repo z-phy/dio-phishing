@@ -1,4 +1,4 @@
-# dio-phishing
+#phishing
 Phishing to capture passwords
 
 Tools
