@@ -1,5 +1,5 @@
 # dio-phishing
-Phishing to capture Facebook passwords
+Phishing to capture passwords
 
 Tools
 
